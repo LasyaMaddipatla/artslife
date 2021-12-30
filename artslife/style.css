@@ -1,0 +1,53 @@
+:root{
+	--pink: #e84393;
+}
+
+{
+	margin:0;padding:0;
+	box-sizing: border-box;
+	front-family: verdana,geneva,;
+	outline: none; border: none;
+	text-decoration: none;
+	text-transform: capitalize;
+	transition: .2s linear;
+
+}
+
+html{
+	font-size: 62.5%;
+	scroll-behavior: smooth;
+	scroll-padding-top: 6rem;
+	overflow-x: hidden;
+}
+
+ header{
+ 	background-color:yellow;
+	padding:5px;
+	width:80%;
+	color:white;
+	text-align:center;
+	border-width:2px;
+	border-color:black;
+	border-style:solid;
+	
+
+ 	
+ }
+
+ 
+
+ h2{
+ 	color: red;
+ 	background-color: deeppink;
+ }
+ body{
+ 	background-color: black;
+ }
+
+ img{
+ 	margin-left: 45%;
+ 	border-width: 1px;
+ 	border-color: yellowgreen;
+ 	border-style: solid;
+ 	
+ }
